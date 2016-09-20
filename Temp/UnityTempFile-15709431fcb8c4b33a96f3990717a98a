@@ -86,5 +86,6 @@
 -define:UNITY_EDITOR_LINUX
 -define:UNITY_TEAM_LICENSE
 Assets/Codigo/Barra.cs
+Assets/Codigo/Pelota.cs
 -r:/opt/Unity/Editor/Data/Mono/lib/mono/unity/System.Runtime.Serialization.dll
 -r:/opt/Unity/Editor/Data/Mono/lib/mono/unity/System.Xml.Linq.dll

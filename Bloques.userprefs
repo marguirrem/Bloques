@@ -1,8 +1,9 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Codigo/Barra.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Codigo/Pelota.cs">
     <Files>
-      <File FileName="Assets/Codigo/Barra.cs" Line="10" Column="23" />
+      <File FileName="Assets/Codigo/Barra.cs" Line="11" Column="3" />
+      <File FileName="Assets/Codigo/Pelota.cs" Line="37" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

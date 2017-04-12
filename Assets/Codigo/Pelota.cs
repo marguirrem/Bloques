@@ -24,7 +24,7 @@ public class Pelota : MonoBehaviour {
 		rigid.velocity 		= Vector3.zero;
 	}
 
-	public detenerMovimiento(){
+	public void detenerMovimiento(){
 		rigid.isKinematic 	= true;
 		rigid.velocity 		= Vector3.zero;
 	}
